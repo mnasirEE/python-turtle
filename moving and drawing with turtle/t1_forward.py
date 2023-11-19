@@ -8,7 +8,7 @@ turtle.forward(110)
 # changes the direction of  
 # the pen by 10 degrees in the 
 # left direction 
-turtle.right(90) 
+turtle.right(110) 
   
 # moves the pen in the  
 # forward direction in  
