@@ -30,3 +30,4 @@ turtle.home()
   
 # check turtle position 
 print(turtle.position())
+turtle.ht()
